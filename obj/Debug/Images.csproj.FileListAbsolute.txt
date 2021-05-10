@@ -1,0 +1,10 @@
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Images\bin\Debug\Images.exe.config
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Images\bin\Debug\Images.exe
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Images\bin\Debug\Images.pdb
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Images\obj\Debug\Images.csprojAssemblyReference.cache
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Images\obj\Debug\Images.Properties.Resources.resources
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Images\obj\Debug\Images.csproj.GenerateResource.cache
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Images\obj\Debug\Images.csproj.CoreCompileInputs.cache
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Images\obj\Debug\Images.exe
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Images\obj\Debug\Images.pdb
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Images\obj\Debug\Images.Form1.resources
